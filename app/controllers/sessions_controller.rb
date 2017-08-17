@@ -12,7 +12,8 @@ class SessionsController < ApplicationController
     end
   end
 
-  def index
+  def show
+
   end
 
   def destroy
